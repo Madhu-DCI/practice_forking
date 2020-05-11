@@ -1,4 +1,4 @@
-# practice_forking
+# practice_forking in github
 Let's Practice Forking
 
 - Create a local repository from the command line.
